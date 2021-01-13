@@ -1,5 +1,5 @@
 # Web Crawler Experimentation Project
-This project was built upon a former assignment from UCI's course CS121 Information Retrieval.
+This project was built upon a former course assignment.
 Additional modifications were made after completing the course.  This version of the program can run on a set list of specific websites, likened to the ones used for testing
 provided by the course.
 
